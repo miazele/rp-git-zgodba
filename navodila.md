@@ -12,3 +12,7 @@
    za katere git še ne ve. Sedaj napišite `git commit -m "Moj prvi commit"` in
    s tem povejte git-u, naj spremembe shrani v repozitorij.
 8. Glejte ukazno vrstico za nadaljnja navodila.
+
+
+ngfxjzfudr 42
+hsrtjhsrerujej
