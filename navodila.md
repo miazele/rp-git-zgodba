@@ -13,6 +13,4 @@
    s tem povejte git-u, naj spremembe shrani v repozitorij.
 8. Glejte ukazno vrstico za nadaljnja navodila.
 
-
-ngfxjzfudr 42
-hsrtjhsrerujej
+42
